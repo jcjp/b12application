@@ -23,4 +23,4 @@ jobs:
 
       - name: B12 application
         run: |
-          python b2_application.py
+          python b12_application.py
